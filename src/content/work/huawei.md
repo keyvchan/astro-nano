@@ -1,7 +1,7 @@
 ---
 company: "Huawei"
 role: "System Software Engineer"
-dateStart: "12/2023"
+dateStart: "12/27/2023"
 dateEnd: "Current"
 ---
 
